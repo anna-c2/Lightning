@@ -21,6 +21,7 @@ void setup()
 void draw()
 {
  //moon
+  noStroke();
   fill(255);
   ellipse(100,100,100,100);
 
